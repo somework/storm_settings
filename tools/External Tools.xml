@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="php-cs-fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.config/composer/vendor/bin/php-cs-fixer" />
+      <option name="PARAMETERS" value="fix --verbose --config=/home/pinchuk/.php_cs.dist &quot;$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

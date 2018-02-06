@@ -1,0 +1,15 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="8.9.1" last-modified="1510094592000" />
+      <npm-package value="/usr/lib/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="MOVE_CLASS_SEARCH_IN_COMMENTS_AND_STRINGS" value="true" />
+  </component>
+  <component name="Quick Notes by Jitendra Rana">
+    <option name="selectednoteindex" value="0" />
+  </component>
+</application>
