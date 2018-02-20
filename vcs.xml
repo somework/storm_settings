@@ -6,8 +6,13 @@
           <option name="url" value="http://scm.adv.ru" />
           <option name="userName" value="pinchuk@adv.ru" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/somework/composer-symlinks.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/www/personal/bitrix" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
