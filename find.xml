@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -16,6 +15,7 @@
       <mask>composer.json</mask>
       <mask>*.json</mask>
       <mask>*.php</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
