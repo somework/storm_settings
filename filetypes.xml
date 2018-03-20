@@ -6,6 +6,7 @@
       <mapping pattern="define-variables" type="PHP" />
       <mapping pattern="b-user" type="PHP" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="paracept_6" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
       <mapping pattern="bitrix-console" type="PLAIN_TEXT" />
