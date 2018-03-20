@@ -2,14 +2,21 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="define-variables" type="PHP" />
+      <mapping pattern=".php_cs" type="PHP" />
       <mapping pattern="b-user" type="PHP" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="paracept_6" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="paracept" type="PLAIN_TEXT" />
       <mapping pattern="LICENSE" type="PLAIN_TEXT" />
+      <mapping pattern="paracept_4" type="PLAIN_TEXT" />
       <mapping pattern="bitrix-console" type="PLAIN_TEXT" />
+      <mapping pattern="paracept_7" type="PLAIN_TEXT" />
+      <mapping pattern="paracept_6" type="PLAIN_TEXT" />
+      <mapping pattern="paracept_5" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="paracept_3" type="PLAIN_TEXT" />
+      <mapping pattern="paracept_2" type="PLAIN_TEXT" />
+      <mapping pattern="paracept_" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dist" type="YAML" />
     </extensionMap>
   </component>
